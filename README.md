@@ -18,7 +18,7 @@ Este é um projeto prático realizado com o objetivo de aplicar e consolidar con
 <br>
 
 <p align="center">
-  <img alt="prepré visualização" src=".github/preview.jpg" width="100%">
+  <img alt="prepré visualização" src=".github/light.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
