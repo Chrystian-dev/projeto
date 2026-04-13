@@ -36,7 +36,7 @@ Este projeto demonstra o desenvolvimento inicial de um website totalmente respon
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://chrystian-dev.github.io/projeto/index.html). Não é necessário ter conta no [github.com](https://github.com/) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://chrystian-dev.github.io/projeto/index.html). veja como o projeto foi pensado no [figma.com](https://www.figma.com/design/WqbtRILqlnKnbB44e0pk5U/DevLinks-%E2%80%A2-Projeto-Discover--Community-?node-id=10-620&p=f&t=vGHv0Pxsbnrje76w-0).
 
 ## :memo: Licença
 
